@@ -14,7 +14,8 @@ class Program {
     }
 
     static char solve(string s){
-      // Your code goes here
+      int r=1234;
+        return r;
       // s is the given input string
       return ' ';
     }
